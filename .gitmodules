@@ -7,3 +7,9 @@
 [submodule "daftar-api-lokal"]
 	path = daftar-api-lokal
 	url = https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
+[submodule "PublicAPIs"]
+	path = PublicAPIs
+	url = https://github.com/n0shake/Public-APIs
+[submodule "publicIndo-api"]
+	path = publicIndo-api
+	url = https://github.com/api-publik/indonesia
